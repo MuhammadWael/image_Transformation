@@ -1,4 +1,5 @@
 % Read the image file
+% Change the image to desired image path 
 originalImage = imread('My photo.jpg');
 
 % Create a new figure
